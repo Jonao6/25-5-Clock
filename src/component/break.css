@@ -1,0 +1,15 @@
+.break {
+    padding-right: 15px;
+}
+.break-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.break-label {
+padding-left: 12px;
+}
+.break-length {
+    font-weight: bold;
+    margin-bottom: 0;
+}

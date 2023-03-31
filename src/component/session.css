@@ -1,0 +1,12 @@
+.session {
+    padding-left: 15px;
+}
+.session-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.session-length {
+    font-weight: bold;
+    margin-bottom: 0;
+}
